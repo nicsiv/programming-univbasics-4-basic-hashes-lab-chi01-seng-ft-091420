@@ -1,5 +1,6 @@
-def new_hash = {}
-  puts new_hash
+def new_hash
+  {}
+
 end
 
 def my_hash
